@@ -1,0 +1,90 @@
+name: Build MemRunner Apps
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    name: Build ${{ matrix.name }}
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Windows
+            os: windows-latest
+            artifact_name: MemRunner-Windows
+            zip_name: MemRunner-Windows.zip
+          - name: macOS
+            os: macos-latest
+            artifact_name: MemRunner-macOS
+            zip_name: MemRunner-macOS.zip
+          - name: Linux
+            os: ubuntu-latest
+            artifact_name: MemRunner-Linux
+            zip_name: MemRunner-Linux.zip
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system dependencies for Linux
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y zip
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyinstaller
+
+      - name: Build executable
+        run: |
+          pyinstaller --name MemRunner --onefile launcher.py
+
+      - name: Package Windows app
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path package
+          Copy-Item dist\MemRunner.exe package\MemRunner.exe
+          Copy-Item README.md package\README.md
+          Copy-Item LICENSE package\LICENSE
+          Compress-Archive -Path package\* -DestinationPath MemRunner-Windows.zip
+
+      - name: Package macOS app
+        if: runner.os == 'macOS'
+        run: |
+          mkdir -p package
+          cp dist/MemRunner package/MemRunner
+          cp README.md package/README.md
+          cp LICENSE package/LICENSE
+          chmod +x package/MemRunner
+          zip -r MemRunner-macOS.zip package
+
+      - name: Package Linux app
+        if: runner.os == 'Linux'
+        run: |
+          mkdir -p package
+          cp dist/MemRunner package/MemRunner
+          cp README.md package/README.md
+          cp LICENSE package/LICENSE
+          chmod +x package/MemRunner
+          zip -r MemRunner-Linux.zip package
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.artifact_name }}
+          path: ${{ matrix.zip_name }}
