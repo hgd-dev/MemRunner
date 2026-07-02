@@ -1,0 +1,456 @@
+prompt_text,answer_text,prompt_lang,answer_lang
+la bienvenida,(the) welcome,Spanish,English
+la despedida,(the) farewell,Spanish,English
+el destino,destination,Spanish,English
+el itinerario,itinerary,Spanish,English
+la llegada,arrival,Spanish,English
+el pasaje (de ida y vuelta),(round-trip) ticket (for a plane),Spanish,English
+el pasaporte,passport,Spanish,English
+la tarjeta de embarque,boarding card,Spanish,English
+la temporada alta,high season (traveling; planes),Spanish,English
+la temporada baja,low season (traveling; planes),Spanish,English
+el(la) viajero(a),traveler,Spanish,English
+hacer las maletas,to pack (suitcase),Spanish,English
+hacer transbordo,to change (planes/trains),Spanish,English
+hacer un viaje,to take a trip,Spanish,English
+ir(se) de vacaciones,to take a vacation,Spanish,English
+perder (e:ie) (el vuelo),to miss (the flight),Spanish,English
+regresar,to return,Spanish,English
+a bordo,on board,Spanish,English
+retrasado(a),delayed,Spanish,English
+vencido(a),expired,Spanish,English
+vigente,valid,Spanish,English
+el albergue,hostel,Spanish,English
+el alojamiento,lodging,Spanish,English
+la habitación individual,single room (hotel),Spanish,English
+la habitación doble,double room (hotel),Spanish,English
+la recepción,front desk,Spanish,English
+el servicio de habitación,room service,Spanish,English
+alojarse,to stay,Spanish,English
+cancelar,to cancel,Spanish,English
+estar lleno(a),to be full,Spanish,English
+quedarse,to stay,Spanish,English
+reservar,to reserve,Spanish,English
+de (buena) categoría,of (high) quality,Spanish,English
+incluido(a),included,Spanish,English
+recomendable,recommendable; advisable,Spanish,English
+el accidente (automovilístico),(car) accident,Spanish,English
+el(la) agente de aduanas,customs agent,Spanish,English
+el aviso,notice; warning,Spanish,English
+el cinturón de seguridad,seatbelt,Spanish,English
+el congestionamiento,traffic jam,Spanish,English
+las medidas de seguridad,security measures,Spanish,English
+la seguridad,safety; security,Spanish,English
+el seguro,insurance,Spanish,English
+aterrizar,to land (a plane),Spanish,English
+despegar,to take off (a plane),Spanish,English
+ponerse el cinturón,to put on/fasten your seatbelt,Spanish,English
+quitarse el cinturón,to take off/unfasten your seatbelt,Spanish,English
+reducir (la velocidad),to reduce (speed),Spanish,English
+peligroso(a),dangerous,Spanish,English
+prohibido(a),prohibited; not allowed,Spanish,English
+la aventura,adventure,Spanish,English
+el(la) aventurero(a),adventurer,Spanish,English
+la brújula,compass,Spanish,English
+el buceo,scuba diving,Spanish,English
+el campamento,campground,Spanish,English
+el crucero,cruise (ship),Spanish,English
+el (eco)turismo,(eco)tourism,Spanish,English
+la excursión,excursion; tour,Spanish,English
+la frontera,border,Spanish,English
+el(la) guía turístico(a),tour guide,Spanish,English
+la isla,island,Spanish,English
+las olas,waves,Spanish,English
+el puerto,port,Spanish,English
+las ruinas,ruins,Spanish,English
+la selva,jungle,Spanish,English
+el(la) turista,tourist,Spanish,English
+navegar,to sail,Spanish,English
+recorrer,to visit; to go around,Spanish,English
+lejano(a),distant,Spanish,English
+turístico(a),tourist (ex: a “tourist” destination; adjective),Spanish,English
+el árbol,tree,Spanish,English
+el arrecife,reef,Spanish,English
+el bosque (lluvioso),(rain) forest,Spanish,English
+el campo,countryside; field,Spanish,English
+la cordillera,mountain range,Spanish,English
+la costa,coast,Spanish,English
+el desierto,desert,Spanish,English
+el mar,sea,Spanish,English
+la montaña,mountain,Spanish,English
+el paisaje,landscape; scenery,Spanish,English
+la tierra,land; earth,Spanish,English
+húmedo(a),humid; damp,Spanish,English
+seco(a),dry,Spanish,English
+a orillas de,on the shore of,Spanish,English
+al aire libre,outdoors,Spanish,English
+el ave (f.),bird (not pájaro),Spanish,English
+el pájaro,bird (not ave),Spanish,English
+el cerdo,pig,Spanish,English
+el conejo,rabbit,Spanish,English
+el león,lion,Spanish,English
+el mono,monkey,Spanish,English
+la oveja,sheep,Spanish,English
+el pez,fish,Spanish,English
+la rana,frog,Spanish,English
+la serpiente,snake,Spanish,English
+el tigre,tiger,Spanish,English
+la vaca,cow,Spanish,English
+atrapar,to trap; to catch,Spanish,English
+cazar,to hunt,Spanish,English
+dar de comer,to feed,Spanish,English
+extinguirse,to become extinct,Spanish,English
+morder (o:ue),to bite,Spanish,English
+en peligro de extinción,endangered,Spanish,English
+salvaje,wild,Spanish,English
+venenoso(a),poisonous,Spanish,English
+el huracán,hurricane,Spanish,English
+el incendio,fire,Spanish,English
+la inundación,flood,Spanish,English
+el relámpago,lightning,Spanish,English
+la sequía,drought,Spanish,English
+el terremoto,earthquake,Spanish,English
+la tormenta (tropical),(tropical) storm,Spanish,English
+el trueno,thunder,Spanish,English
+el calentamiento global,global warming,Spanish,English
+la capa de ozono,ozone layer,Spanish,English
+el combustible,fuel,Spanish,English
+la contaminación,pollution; contamination,Spanish,English
+la deforestación,deforestation,Spanish,English
+el desarrollo,development,Spanish,English
+la erosión,erosion,Spanish,English
+la fuente de energía,energy source,Spanish,English
+el medio ambiente,environment,Spanish,English
+los recursos naturales,natural resources,Spanish,English
+agotar,to use up,Spanish,English
+conservar,to conserve; to preserve,Spanish,English
+contaminar,to pollute; to contaminate,Spanish,English
+contribuir (a),to contribute (to),Spanish,English
+desaparecer,to disappear,Spanish,English
+destruir,to destroy,Spanish,English
+malgastar,to waste,Spanish,English
+proteger,to protect,Spanish,English
+reciclar,to recycle,Spanish,English
+resolver (o:ue),to solve,Spanish,English
+dañino(a),harmful,Spanish,English
+desechable,disposable,Spanish,English
+renovable,renewable,Spanish,English
+tóxico(a),toxic,Spanish,English
+cabrá,it will fit,Spanish,English
+habré hecho,I will have done,Spanish,English
+podrás,You will be able to,Spanish,English
+querremos,We will want,Spanish,English
+sabrán,They will know (factually),Spanish,English
+pondré,I will put,Spanish,English
+saldré,I will leave (not irse),Spanish,English
+tendrá,He/she will have,Spanish,English
+valdrá,it will be worth,Spanish,English
+vendremos,we will come,Spanish,English
+diré,I will say,Spanish,English
+haré,I will do,Spanish,English
+me satisfará,it will satisfy me,Spanish,English
+a menos que,unless,Spanish,English
+antes (de) que,before (conj; not antes),Spanish,English
+con tal (de) que,provided that; given that,Spanish,English
+en caso (de) que,in case that,Spanish,English
+para que,so that,Spanish,English
+sin que,without; unless,Spanish,English
+a pesar de que,despite,Spanish,English
+aunque,although; even if,Spanish,English
+después (de) que,after (conj; not después),Spanish,English
+en cuanto,as soon as,Spanish,English
+hasta que,until that,Spanish,English
+tan pronto como,as soon as (not luego que),Spanish,English
+luego que,as soon as (not tan pronto como),Spanish,English
+mientras que,while (conj; not just mientras),Spanish,English
+siempre que,as long as,Spanish,English
+la arroba,@ symbol,Spanish,English
+el blog,blog,Spanish,English
+el buscador,search engine,Spanish,English
+la computadora portátil,laptop,Spanish,English
+la contraseña,password,Spanish,English
+el corrector ortográfico,spell checker,Spanish,English
+la dirección de correo electrónico,e-mail address,Spanish,English
+la informática,computer science,Spanish,English
+Internet,Internet,Spanish,English
+el mensaje (de texto),(text) message,Spanish,English
+la página web,web page,Spanish,English
+el programa (de computación),software,Spanish,English
+el reproductor (de CD/DVD/MP3),(CD/DVD/MP3) player,Spanish,English
+el (teléfono) celular,cell phone,Spanish,English
+adjuntar (un archivo),to attach (a file),Spanish,English
+borrar,to erase,Spanish,English
+descargar,to download,Spanish,English
+*guardar,*to save,Spanish,English
+navegar en la red,to surf/browse the web,Spanish,English
+digital,digital,Spanish,English
+en línea,online,Spanish,English
+inalámbrico(a),wireless,Spanish,English
+el agujero negro,black hole,Spanish,English
+el cohete,rocket,Spanish,English
+el cometa,comet,Spanish,English
+el espacio,space,Spanish,English
+la estrella (fugaz),(shooting) star,Spanish,English
+el(la) extraterrestre,alien,Spanish,English
+la gravedad,gravity,Spanish,English
+el ovni,UFO,Spanish,English
+el planeta,planet,Spanish,English
+el telescopio,telescope,Spanish,English
+el transbordador espacial,space shuttle,Spanish,English
+el(la) astronauta,astronaut,Spanish,English
+el(la) astronómo(a),astronomer,Spanish,English
+el(la) biólogo(a),biologist,Spanish,English
+el(la) científico(a),scientist,Spanish,English
+el(la) físico(a),physicist,Spanish,English
+el(la) ingeniero(a),engineer,Spanish,English
+el(la) matemático(a),mathematician,Spanish,English
+el(la) (bio)químico(a),(bio)chemist,Spanish,English
+el ADN (ácido desoxirribonucleico),DNA,Spanish,English
+el avance,advance; breakthrough,Spanish,English
+la célula,cell,Spanish,English
+el desafío,challenge,Spanish,English
+el descubrimiento,discovery,Spanish,English
+el experimento,experiment,Spanish,English
+el gen,gene,Spanish,English
+el invento,invention,Spanish,English
+la patente,patent,Spanish,English
+la teoría,theory,Spanish,English
+clonar,to clone,Spanish,English
+comprobar (o:ue),to prove,Spanish,English
+crear,to create,Spanish,English
+fabricar,to manufacture; to make,Spanish,English
+formular,to formulate,Spanish,English
+inventar,to invent,Spanish,English
+investigar,to investigate; to research,Spanish,English
+avanzado(a),advanced,Spanish,English
+(bio)químico(a),(bio)chemical,Spanish,English
+especializado(a),specialized,Spanish,English
+ético(a),ethical,Spanish,English
+innovador(a),innovative,Spanish,English
+revolucionario(a),revolutionary,Spanish,English
+Hoy he dicho,Today I have said,Spanish,English
+Esta mañana ha dicho,This morning he/she has said,Spanish,English
+Ya hemos abierto la puerta,We've already opened the door,Spanish,English
+¡Mi gato ya no ha muerto!,My cat hasn't died yet!,Spanish,English
+La cura ya no ha sido inventado,The cure hasn't been invented yet,Spanish,English
+Recientemente han estado buscándote,Recently they have been looking for you,Spanish,English
+varias veces,several times,Spanish,English
+Lo han perdido varias veces,They have lost it several times,Spanish,English
+A veces,sometimes,Spanish,English
+A veces se me ha roto el corazón,Sometimes my heart has broken,Spanish,English
+¿todavía no has puesto la mesa?,You still haven't set the table?,Spanish,English
+ya,already,Spanish,English
+ya había hecho,I had already done,Spanish,English
+ya habíamos hecho,We had already done,Spanish,English
+todavía,still,Spanish,English
+todavía no habías visto,You still hadn't seen,Spanish,English
+todavía había sidobajito,He had still been (ser)very short,Spanish,English
+bajito,very short,Spanish,English
+miguelito,Mikey,Spanish,English
+el librillo,booklet,Spanish,English
+la ventanilla,plane/car/bus window,Spanish,English
+ahorita,right now; very soon,Spanish,English
+la campanilla,hand bell,Spanish,English
+el panecillo,roll (bread),Spanish,English
+la florecita,little flower,Spanish,English
+chiquillo,little boy; very small,Spanish,English
+el pececito,fishy; little fish,Spanish,English
+el amiguito,little friend,Spanish,English
+la agüita,little bit of water,Spanish,English
+la lucecita,little light,Spanish,English
+la manzanilla,chamomile,Spanish,English
+la bombilla,lightbulb,Spanish,English
+el solterón,confirmed bachelor,Spanish,English
+grandote,really big,Spanish,English
+el perrazo,big scary dog,Spanish,English
+la casona,big house; mansion,Spanish,English
+la palabrota,swear word,Spanish,English
+las manazas,big hands (clumsy),Spanish,English
+el sillón,armchair,Spanish,English
+el manchón,large stain,Spanish,English
+la mujerona,big woman,Spanish,English
+mimosona,very affectionate,Spanish,English
+guapetona,gorgeous,Spanish,English
+golpetazo,very hard blow or strike,Spanish,English
+el flechazo,arrow wound,Spanish,English
+el rodillazo,blow with the knee,Spanish,English
+cabezón,stubborn,Spanish,English
+el cajón,drawer,Spanish,English
+el telón,theater curtain,Spanish,English
+el balón,ball (big ball),Spanish,English
+el perrito,puppy,Spanish,English
+el gatito,kitten,Spanish,English
+el pollito,baby chick,Spanish,English
+el pajarito,birdie,Spanish,English
+el cafecito,little coffee; small coffee shop,Spanish,English
+papito,daddy,Spanish,English
+mamita,mommy,Spanish,English
+hermanito,little brother (affectionate; not necessarily younger),Spanish,English
+jovencita,lovely young lady,Spanish,English
+amorcito,sweetheart,Spanish,English
+un momentito,just a moment,Spanish,English
+un segundito,just a second,Spanish,English
+un ratito,just a bit; in a jiffy,Spanish,English
+gordito,chubby (affectionate),Spanish,English
+pobrecito,poor baby (generally sarcastic),Spanish,English
+solito,all alone,Spanish,English
+verdecito,greenish,Spanish,English
+poquito,little bit,Spanish,English
+cerquita,quite close,Spanish,English
+nuevecito,brand new,Spanish,English
+el aumento de sueldo,raise in salary,Spanish,English
+la compañía,company,Spanish,English
+la conferencia,conference,Spanish,English
+el contrato,contract,Spanish,English
+el currículum (vitae),résumé,Spanish,English
+el empleo,employment; job,Spanish,English
+la entrevista de trabajo,job interview,Spanish,English
+el puesto,position; job,Spanish,English
+la reunión,meeting,Spanish,English
+el sueldo mínimo,minimum wage,Spanish,English
+administrar,to manage; to run (a company),Spanish,English
+ascender (e:ie),to rise; to be promoted,Spanish,English
+contratar,to hire,Spanish,English
+despedir (e:i),to fire,Spanish,English
+exigir,to demand,Spanish,English
+ganar bien,to be well paid,Spanish,English
+ganar mal,to be poorly paid,Spanish,English
+ganarse la vida,to earn a living,Spanish,English
+jubilarse,to retire,Spanish,English
+renunciar,to quit,Spanish,English
+solicitar,to apply for,Spanish,English
+(des)empleado(a),(un)employed,Spanish,English
+exitoso(a),successful,Spanish,English
+(in)capaz,(in)competent; (in)capable,Spanish,English
+el ahorro,savings,Spanish,English
+la bancarrota,bankruptcy,Spanish,English
+el cajero automático,ATM,Spanish,English
+la cuenta corriente,checkings account,Spanish,English
+la cuenta de ahorros,savings account,Spanish,English
+la deuda,debt,Spanish,English
+la hipoteca,mortgage,Spanish,English
+el presupuesto,budget,Spanish,English
+ahorrar,to save,Spanish,English
+cobrar,to charge; to receive,Spanish,English
+depositar,to deposit,Spanish,English
+financiar,to finance,Spanish,English
+gastar,to spend,Spanish,English
+invertir (e:ie),to invest,Spanish,English
+pedir (e:i) prestado(a),to borrow,Spanish,English
+prestar,to lend,Spanish,English
+a corto plazo,short-term,Spanish,English
+a largo plazo,long-term,Spanish,English
+fijo(a),permanent; fixed,Spanish,English
+financiero(a),financial,Spanish,English
+la bolsa (de valores),stock market,Spanish,English
+el comercio,commerce; trade,Spanish,English
+el desempleo,unemployment,Spanish,English
+la empresa multinacional,multinational company,Spanish,English
+la huelga,strike,Spanish,English
+el impuesto (de ventas),(sales) tax,Spanish,English
+la inversión (extranjera),(foreign) investment,Spanish,English
+el mercado,market,Spanish,English
+la pobreza,poverty,Spanish,English
+la riqueza,wealth,Spanish,English
+el sindicato,labor union,Spanish,English
+importar,to import,Spanish,English
+el(la) asesor(a),consultant; advisor,Spanish,English
+exportar,to export,Spanish,English
+el(la) dueño(a),owner,Spanish,English
+el(la) contador(a),accountant,Spanish,English
+el(la) ejecutivo(a),executive,Spanish,English
+el(la) empleado(a),employee,Spanish,English
+el(la) gerente,manager,Spanish,English
+el hombre de negocios,businessman,Spanish,English
+la mujer de negocios,businesswoman,Spanish,English
+el(la) socio(a),partner; member (of a business),Spanish,English
+el(la) vendedor(a),salesperson,Spanish,English
+la banda sonora,soundtrack,Spanish,English
+el canal,channel (TV),Spanish,English
+el(la) corresponsal,correspondent,Spanish,English
+el(la) crítico(a) de cine,film critic,Spanish,English
+la cadena,network,Spanish,English
+el documental,documentary,Spanish,English
+los efectos especiales,special effects,Spanish,English
+el episodio (final),(final) episode,Spanish,English
+el(la) locutor(a) de radio,radio announcer,Spanish,English
+el(la) oyente,listener,Spanish,English
+la (radio)emisora,radio station,Spanish,English
+el reportaje,news report,Spanish,English
+el(la) reportero(a),reporter,Spanish,English
+los subtítulos,subtitles,Spanish,English
+la telenovela,soap opera,Spanish,English
+el(la) televidente,television viewer,Spanish,English
+la temporada,season (of a TV series),Spanish,English
+grabar,to record,Spanish,English
+el video musical,music video,Spanish,English
+rodar (o:ue),to film,Spanish,English
+transmitir,to broadcast,Spanish,English
+en vivo,live (not directo; referring to a live broadcast),Spanish,English
+en directo,live (not vivo; referring to a live broadcast),Spanish,English
+doblado(a),dubbed,Spanish,English
+la celebridad,celebrity,Spanish,English
+el chisme,gossip,Spanish,English
+la estrella (pop),(pop) star,Spanish,English
+la fama,fame,Spanish,English
+la moda pasajera,fad,Spanish,English
+la tendencia,trend (not moda),Spanish,English
+la moda,trend (not tendencia),Spanish,English
+hacerse famoso(a),to become famous,Spanish,English
+tener buena fama,to have a good reputation,Spanish,English
+tener mala fama,to have a bad reputation,Spanish,English
+actual,current,Spanish,English
+de moda,popular; in fashion,Spanish,English
+influyente,influential,Spanish,English
+pasado(a) de moda,out-of-date; no longer popular,Spanish,English
+el acontecimiento,event,Spanish,English
+la actualidad,current events,Spanish,English
+el anuncio,advertisement; commercial,Spanish,English
+la censura,censorship,Spanish,English
+la libertad de prensa,freedom of the press,Spanish,English
+los medios de comunicación,media,Spanish,English
+la parcialidad,bias,Spanish,English
+la publicidad,advertising,Spanish,English
+el público,public; audience,Spanish,English
+enterrarse (de),to become informed (about),Spanish,English
+estar al tanto,to be informed/up-to-date (not al día),Spanish,English
+estar al día,to be informed/up-to-date (not al tanto),Spanish,English
+actualizado(a),up-to-date,Spanish,English
+controvertido(a),controversial,Spanish,English
+de último momento,up-to-the-minute,Spanish,English
+destacado(a),prominent,Spanish,English
+(im)parcial,(un)biased,Spanish,English
+el(la) lector(a),reader,Spanish,English
+las noticias locales,local news,Spanish,English
+las noticias nacionales,national news,Spanish,English
+las noticias internacionales,international news,Spanish,English
+el periódico,newspaper (not diario),Spanish,English
+el diario,newspaper (not periódico),Spanish,English
+el(la) periodista,journalist,Spanish,English
+la portada,front page; cover,Spanish,English
+la prensa,press,Spanish,English
+la prensa sensacionalista,tabloid(s),Spanish,English
+el(la) redactor(a),editor,Spanish,English
+la revista (electrónica),(online) magazine,Spanish,English
+la sección de sociedad,lifestyle section,Spanish,English
+la sección deportiva,sports page/section,Spanish,English
+la tira cómica,comic strip,Spanish,English
+el titular,headline,Spanish,English
+imprimir,to print,Spanish,English
+publicar,to publish,Spanish,English
+suscribirse (a),to subscribe (to),Spanish,English
+primero,first,Spanish,English
+segundo,second,Spanish,English
+para empezar,to begin,Spanish,English
+finalmente,finally,Spanish,English
+antes de todo,above all,Spanish,English
+primero que nada,before anything else,Spanish,English
+por ejemplo,for example,Spanish,English
+como si,as if,Spanish,English
+"para ilustrar, empecemos con","to illustrate, let’s begin with",Spanish,English
+para clarificar,to clarify,Spanish,English
+me parece que,it seems to me that,Spanish,English
+en mi opinión,in my opinion,Spanish,English
+a causa de,because of (negative),Spanish,English
+debido a,because of (neutral),Spanish,English
+gracias a,because of (positive),Spanish,English

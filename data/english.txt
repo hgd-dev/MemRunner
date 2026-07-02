@@ -1,0 +1,455 @@
+(the) welcome
+(the) farewell
+destination
+itinerary
+arrival
+(round-trip) ticket (for a plane)
+passport
+boarding card
+high season (traveling; planes)
+low season (traveling; planes)
+traveler
+to pack (suitcase)
+to change (planes/trains)
+to take a trip
+to take a vacation
+to miss (the flight)
+to return
+on board
+delayed
+expired
+valid
+hostel
+lodging
+single room (hotel)
+double room (hotel)
+front desk
+room service
+to stay
+to cancel
+to be full
+to stay
+to reserve
+of (high) quality
+included
+recommendable; advisable
+(car) accident
+customs agent
+notice; warning
+seatbelt
+traffic jam
+security measures
+safety; security
+insurance
+to land (a plane)
+to take off (a plane)
+to put on/fasten your seatbelt
+to take off/unfasten your seatbelt
+to reduce (speed)
+dangerous
+prohibited; not allowed
+adventure
+adventurer
+compass
+scuba diving
+campground
+cruise (ship)
+(eco)tourism
+excursion; tour
+border
+tour guide
+island
+waves
+port
+ruins
+jungle
+tourist
+to sail
+to visit; to go around
+distant
+tourist (ex: a “tourist” destination; adjective)
+tree
+reef
+(rain) forest
+countryside; field
+mountain range
+coast
+desert
+sea
+mountain
+landscape; scenery
+land; earth
+humid; damp
+dry
+on the shore of
+outdoors
+bird (not pájaro)
+bird (not ave)
+pig
+rabbit
+lion
+monkey
+sheep
+fish
+frog
+snake
+tiger
+cow
+to trap; to catch
+to hunt
+to feed
+to become extinct
+to bite
+endangered
+wild
+poisonous
+hurricane
+fire
+flood
+lightning
+drought
+earthquake
+(tropical) storm
+thunder
+global warming
+ozone layer
+fuel
+pollution; contamination
+deforestation
+development
+erosion
+energy source
+environment
+natural resources
+to use up
+to conserve; to preserve
+to pollute; to contaminate
+to contribute (to)
+to disappear
+to destroy
+to waste
+to protect
+to recycle
+to solve
+harmful
+disposable
+renewable
+toxic
+it will fit
+I will have done
+You will be able to
+We will want
+They will know (factually)
+I will put
+I will leave (not irse)
+He/she will have
+it will be worth
+we will come
+I will say
+I will do
+it will satisfy me
+unless
+before (conj; not antes)
+provided that; given that
+in case that
+so that
+without; unless
+despite
+although; even if
+after (conj; not después)
+as soon as
+until that
+as soon as (not luego que)
+as soon as (not tan pronto como)
+while (conj; not just mientras)
+as long as
+@ symbol
+blog
+search engine
+laptop
+password
+spell checker
+e-mail address
+computer science
+Internet
+(text) message
+web page
+software
+(CD/DVD/MP3) player
+cell phone
+to attach (a file)
+to erase
+to download
+*to save
+to surf/browse the web
+digital
+online
+wireless
+black hole
+rocket
+comet
+space
+(shooting) star
+alien
+gravity
+UFO
+planet
+telescope
+space shuttle
+astronaut
+astronomer
+biologist
+scientist
+physicist
+engineer
+mathematician
+(bio)chemist
+DNA
+advance; breakthrough
+cell
+challenge
+discovery
+experiment
+gene
+invention
+patent
+theory
+to clone
+to prove
+to create
+to manufacture; to make
+to formulate
+to invent
+to investigate; to research
+advanced
+(bio)chemical
+specialized
+ethical
+innovative
+revolutionary
+Today I have said
+This morning he/she has said
+We've already opened the door
+My cat hasn't died yet!
+The cure hasn't been invented yet
+Recently they have been looking for you
+several times
+They have lost it several times
+sometimes
+Sometimes my heart has broken
+You still haven't set the table?
+already
+I had already done
+We had already done
+still
+You still hadn't seen
+He had still been (ser)very short
+very short
+Mikey
+booklet
+plane/car/bus window
+right now; very soon
+hand bell
+roll (bread)
+little flower
+little boy; very small
+fishy; little fish
+little friend
+little bit of water
+little light
+chamomile
+lightbulb
+confirmed bachelor
+really big
+big scary dog
+big house; mansion
+swear word
+big hands (clumsy)
+armchair
+large stain
+big woman
+very affectionate
+gorgeous
+very hard blow or strike
+arrow wound
+blow with the knee
+stubborn
+drawer
+theater curtain
+ball (big ball)
+puppy
+kitten
+baby chick
+birdie
+little coffee; small coffee shop
+daddy
+mommy
+little brother (affectionate; not necessarily younger)
+lovely young lady
+sweetheart
+just a moment
+just a second
+just a bit; in a jiffy
+chubby (affectionate)
+poor baby (generally sarcastic)
+all alone
+greenish
+little bit
+quite close
+brand new
+raise in salary
+company
+conference
+contract
+résumé
+employment; job
+job interview
+position; job
+meeting
+minimum wage
+to manage; to run (a company)
+to rise; to be promoted
+to hire
+to fire
+to demand
+to be well paid
+to be poorly paid
+to earn a living
+to retire
+to quit
+to apply for
+(un)employed
+successful
+(in)competent; (in)capable
+savings
+bankruptcy
+ATM
+checkings account
+savings account
+debt
+mortgage
+budget
+to save
+to charge; to receive
+to deposit
+to finance
+to spend
+to invest
+to borrow
+to lend
+short-term
+long-term
+permanent; fixed
+financial
+stock market
+commerce; trade
+unemployment
+multinational company
+strike
+(sales) tax
+(foreign) investment
+market
+poverty
+wealth
+labor union
+to import
+consultant; advisor
+to export
+owner
+accountant
+executive
+employee
+manager
+businessman
+businesswoman
+partner; member (of a business)
+salesperson
+soundtrack
+channel (TV)
+correspondent
+film critic
+network
+documentary
+special effects
+(final) episode
+radio announcer
+listener
+radio station
+news report
+reporter
+subtitles
+soap opera
+television viewer
+season (of a TV series)
+to record
+music video
+to film
+to broadcast
+live (not directo; referring to a live broadcast)
+live (not vivo; referring to a live broadcast)
+dubbed
+celebrity
+gossip
+(pop) star
+fame
+fad
+trend (not moda)
+trend (not tendencia)
+to become famous
+to have a good reputation
+to have a bad reputation
+current
+popular; in fashion
+influential
+out-of-date; no longer popular
+event
+current events
+advertisement; commercial
+censorship
+freedom of the press
+media
+bias
+advertising
+public; audience
+to become informed (about)
+to be informed/up-to-date (not al día)
+to be informed/up-to-date (not al tanto)
+up-to-date
+controversial
+up-to-the-minute
+prominent
+(un)biased
+reader
+local news
+national news
+international news
+newspaper (not diario)
+newspaper (not periódico)
+journalist
+front page; cover
+press
+tabloid(s)
+editor
+(online) magazine
+lifestyle section
+sports page/section
+comic strip
+headline
+to print
+to publish
+to subscribe (to)
+first
+second
+to begin
+finally
+above all
+before anything else
+for example
+as if
+to illustrate, let’s begin with
+to clarify
+it seems to me that
+in my opinion
+because of (negative)
+because of (neutral)
+because of (positive)

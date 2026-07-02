@@ -1,0 +1,455 @@
+la bienvenida
+la despedida
+el destino
+el itinerario
+la llegada
+el pasaje (de ida y vuelta)
+el pasaporte
+la tarjeta de embarque
+la temporada alta
+la temporada baja
+el(la) viajero(a)
+hacer las maletas
+hacer transbordo
+hacer un viaje
+ir(se) de vacaciones
+perder (e:ie) (el vuelo)
+regresar
+a bordo
+retrasado(a)
+vencido(a)
+vigente
+el albergue
+el alojamiento
+la habitación individual
+la habitación doble
+la recepción
+el servicio de habitación
+alojarse
+cancelar
+estar lleno(a)
+quedarse
+reservar
+de (buena) categoría
+incluido(a)
+recomendable
+el accidente (automovilístico)
+el(la) agente de aduanas
+el aviso
+el cinturón de seguridad
+el congestionamiento
+las medidas de seguridad
+la seguridad
+el seguro
+aterrizar
+despegar
+ponerse el cinturón
+quitarse el cinturón
+reducir (la velocidad)
+peligroso(a)
+prohibido(a)
+la aventura
+el(la) aventurero(a)
+la brújula
+el buceo
+el campamento
+el crucero
+el (eco)turismo
+la excursión
+la frontera
+el(la) guía turístico(a)
+la isla
+las olas
+el puerto
+las ruinas
+la selva
+el(la) turista
+navegar
+recorrer
+lejano(a)
+turístico(a)
+el árbol
+el arrecife
+el bosque (lluvioso)
+el campo
+la cordillera
+la costa
+el desierto
+el mar
+la montaña
+el paisaje
+la tierra
+húmedo(a)
+seco(a)
+a orillas de
+al aire libre
+el ave (f.)
+el pájaro
+el cerdo
+el conejo
+el león
+el mono
+la oveja
+el pez
+la rana
+la serpiente
+el tigre
+la vaca
+atrapar
+cazar
+dar de comer
+extinguirse
+morder (o:ue)
+en peligro de extinción
+salvaje
+venenoso(a)
+el huracán
+el incendio
+la inundación
+el relámpago
+la sequía
+el terremoto
+la tormenta (tropical)
+el trueno
+el calentamiento global
+la capa de ozono
+el combustible
+la contaminación
+la deforestación
+el desarrollo
+la erosión
+la fuente de energía
+el medio ambiente
+los recursos naturales
+agotar
+conservar
+contaminar
+contribuir (a)
+desaparecer
+destruir
+malgastar
+proteger
+reciclar
+resolver (o:ue)
+dañino(a)
+desechable
+renovable
+tóxico(a)
+cabrá
+habré hecho
+podrás
+querremos
+sabrán
+pondré
+saldré
+tendrá
+valdrá
+vendremos
+diré
+haré
+me satisfará
+a menos que
+antes (de) que
+con tal (de) que
+en caso (de) que
+para que
+sin que
+a pesar de que
+aunque
+después (de) que
+en cuanto
+hasta que
+tan pronto como
+luego que
+mientras que
+siempre que
+la arroba
+el blog
+el buscador
+la computadora portátil
+la contraseña
+el corrector ortográfico
+la dirección de correo electrónico
+la informática
+Internet
+el mensaje (de texto)
+la página web
+el programa (de computación)
+el reproductor (de CD/DVD/MP3)
+el (teléfono) celular
+adjuntar (un archivo)
+borrar
+descargar
+*guardar
+navegar en la red
+digital
+en línea
+inalámbrico(a)
+el agujero negro
+el cohete
+el cometa
+el espacio
+la estrella (fugaz)
+el(la) extraterrestre
+la gravedad
+el ovni
+el planeta
+el telescopio
+el transbordador espacial
+el(la) astronauta
+el(la) astronómo(a)
+el(la) biólogo(a)
+el(la) científico(a)
+el(la) físico(a)
+el(la) ingeniero(a)
+el(la) matemático(a)
+el(la) (bio)químico(a)
+el ADN (ácido desoxirribonucleico)
+el avance
+la célula
+el desafío
+el descubrimiento
+el experimento
+el gen
+el invento
+la patente
+la teoría
+clonar
+comprobar (o:ue)
+crear
+fabricar
+formular
+inventar
+investigar
+avanzado(a)
+(bio)químico(a)
+especializado(a)
+ético(a)
+innovador(a)
+revolucionario(a)
+Hoy he dicho
+Esta mañana ha dicho
+Ya hemos abierto la puerta
+¡Mi gato ya no ha muerto!
+La cura ya no ha sido inventado
+Recientemente han estado buscándote
+varias veces
+Lo han perdido varias veces
+A veces
+A veces se me ha roto el corazón
+¿todavía no has puesto la mesa?
+ya
+ya había hecho
+ya habíamos hecho
+todavía
+todavía no habías visto
+todavía había sidobajito
+bajito
+miguelito
+el librillo
+la ventanilla
+ahorita
+la campanilla
+el panecillo
+la florecita
+chiquillo
+el pececito
+el amiguito
+la agüita
+la lucecita
+la manzanilla
+la bombilla
+el solterón
+grandote
+el perrazo
+la casona
+la palabrota
+las manazas
+el sillón
+el manchón
+la mujerona
+mimosona
+guapetona
+golpetazo
+el flechazo
+el rodillazo
+cabezón
+el cajón
+el telón
+el balón
+el perrito
+el gatito
+el pollito
+el pajarito
+el cafecito
+papito
+mamita
+hermanito
+jovencita
+amorcito
+un momentito
+un segundito
+un ratito
+gordito
+pobrecito
+solito
+verdecito
+poquito
+cerquita
+nuevecito
+el aumento de sueldo
+la compañía
+la conferencia
+el contrato
+el currículum (vitae)
+el empleo
+la entrevista de trabajo
+el puesto
+la reunión
+el sueldo mínimo
+administrar
+ascender (e:ie)
+contratar
+despedir (e:i)
+exigir
+ganar bien
+ganar mal
+ganarse la vida
+jubilarse
+renunciar
+solicitar
+(des)empleado(a)
+exitoso(a)
+(in)capaz
+el ahorro
+la bancarrota
+el cajero automático
+la cuenta corriente
+la cuenta de ahorros
+la deuda
+la hipoteca
+el presupuesto
+ahorrar
+cobrar
+depositar
+financiar
+gastar
+invertir (e:ie)
+pedir (e:i) prestado(a)
+prestar
+a corto plazo
+a largo plazo
+fijo(a)
+financiero(a)
+la bolsa (de valores)
+el comercio
+el desempleo
+la empresa multinacional
+la huelga
+el impuesto (de ventas)
+la inversión (extranjera)
+el mercado
+la pobreza
+la riqueza
+el sindicato
+importar
+el(la) asesor(a)
+exportar
+el(la) dueño(a)
+el(la) contador(a)
+el(la) ejecutivo(a)
+el(la) empleado(a)
+el(la) gerente
+el hombre de negocios
+la mujer de negocios
+el(la) socio(a)
+el(la) vendedor(a)
+la banda sonora
+el canal
+el(la) corresponsal
+el(la) crítico(a) de cine
+la cadena
+el documental
+los efectos especiales
+el episodio (final)
+el(la) locutor(a) de radio
+el(la) oyente
+la (radio)emisora
+el reportaje
+el(la) reportero(a)
+los subtítulos
+la telenovela
+el(la) televidente
+la temporada
+grabar
+el video musical
+rodar (o:ue)
+transmitir
+en vivo
+en directo
+doblado(a)
+la celebridad
+el chisme
+la estrella (pop)
+la fama
+la moda pasajera
+la tendencia
+la moda
+hacerse famoso(a)
+tener buena fama
+tener mala fama
+actual
+de moda
+influyente
+pasado(a) de moda
+el acontecimiento
+la actualidad
+el anuncio
+la censura
+la libertad de prensa
+los medios de comunicación
+la parcialidad
+la publicidad
+el público
+enterrarse (de)
+estar al tanto
+estar al día
+actualizado(a)
+controvertido(a)
+de último momento
+destacado(a)
+(im)parcial
+el(la) lector(a)
+las noticias locales
+las noticias nacionales
+las noticias internacionales
+el periódico
+el diario
+el(la) periodista
+la portada
+la prensa
+la prensa sensacionalista
+el(la) redactor(a)
+la revista (electrónica)
+la sección de sociedad
+la sección deportiva
+la tira cómica
+el titular
+imprimir
+publicar
+suscribirse (a)
+primero
+segundo
+para empezar
+finalmente
+antes de todo
+primero que nada
+por ejemplo
+como si
+para ilustrar, empecemos con
+para clarificar
+me parece que
+en mi opinión
+a causa de
+debido a
+gracias a
