@@ -1,0 +1,47 @@
+name: Build MemRunner
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        os: [windows-latest, macos-latest, ubuntu-latest]
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Build executable
+        run: pyinstaller --name memrunner --onefile --collect-all memrunner run_memrunner.py
+
+      - name: Include examples
+        shell: bash
+        run: |
+          mkdir -p release
+          cp .env.example release/.env.example
+          cp README.md release/README.md
+          cp -r data release/data
+          if [ -f dist/memrunner.exe ]; then cp dist/memrunner.exe release/; fi
+          if [ -f dist/memrunner ]; then cp dist/memrunner release/; fi
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: memrunner-${{ matrix.os }}
+          path: release
