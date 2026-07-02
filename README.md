@@ -2,7 +2,7 @@
 
 The official repository for MemRunner, a local desktop-style automation assistant tool for navigating and completing Memrise Community Courses. It provides a simple dashboard for running course practice modes, managing vocabulary, and automating repeated question-answering sessions from your own computer.
 
-MemRunner is designed for non-technical users: after installation, you can open a local dashboard, enter your course information, import vocabulary, and start a practice mode with buttons.
+MemRunner is designed for ease of use for all users: after installation, you can open a local dashboard, enter your course information, import vocabulary, and start a practice mode with buttons.
 
 ## Features
 
