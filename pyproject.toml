@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "memrunner"
+version = "0.1.0"
+description = "Local Memrise Community course automation assistant with learn, review, speed, and vocab management modes."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "selenium>=4.21.0",
+  "python-dotenv>=1.0.1",
+  "flask>=3.0.0"
+]
+
+[project.scripts]
+memrunner = "memrunner.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["memrunner*"]
